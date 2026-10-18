@@ -1,0 +1,5 @@
+{
+  "ANSWER->ANSWER": 80,
+  "CLARIFY->CLARIFY": 80,
+  "REFUSE->REFUSE": 40
+}

@@ -1,0 +1,5 @@
+# Runtime is standard-library only. Optional adapters:
+pandas>=2.0
+pyarrow>=14
+pytest>=8
+gradio>=4

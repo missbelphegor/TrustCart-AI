@@ -1,0 +1,20 @@
+{
+  "n": 200,
+  "behaviour_accuracy": 1.0,
+  "grounded_claim_precision": 1.0,
+  "zero_unsupported_responses": 1.0,
+  "hallucinated_price_count": 0,
+  "helpfulness_id_recall": 1.0,
+  "combined_score": 0.9999999999999999,
+  "by_type": {
+    "answerable": 1.0,
+    "ambiguous": 1.0,
+    "out-of-catalogue": 1.0,
+    "trap": 1.0
+  },
+  "confusion_matrix": {
+    "ANSWER->ANSWER": 80,
+    "CLARIFY->CLARIFY": 80,
+    "REFUSE->REFUSE": 40
+  }
+}

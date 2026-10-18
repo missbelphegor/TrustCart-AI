@@ -1,0 +1,6 @@
+stage,p50_ms,p95_ms,max_ms
+t_total,0.37,0.61,3.36
+t_normalize,0.14,0.22,1.47
+t_retrieve,0.07,0.12,0.88
+t_gate,0.00,0.00,0.00
+t_verify,0.16,0.31,1.01

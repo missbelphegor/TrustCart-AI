@@ -1,0 +1,11 @@
+id,title,description,category,price,stock,rating,brand,color,material,size
+P00001,Blue Runner Pro running shoes,Lightweight blue running shoes with lace closure,Footwear,1499,In Stock,4.3,Stride,blue,mesh,8
+P00002,Blue Trail Runner shoes,Blue trail running shoes with cushioned sole,Footwear,1899,In Stock,4.2,Stride,blue,mesh,9
+P00003,Blue Sprint running shoes,Blue running shoes with rubber outsole,Footwear,1299,Out of Stock,4.0,Move,blue,synthetic,8
+P00004,Cotton Classic shirt,Men cotton casual shirt with button front,Clothing,1199,In Stock,4.1,Everyday,white,cotton,M
+P00005,Blue Cotton Shirt,Blue cotton shirt with regular fit,Clothing,1399,In Stock,4.4,Everyday,blue,cotton,L
+P00006,Polyester Sport Shirt,Quick dry polyester sports shirt,Clothing,899,In Stock,4.0,Move,black,polyester,M
+P00007,Green Cotton Kurta,Cotton kurta with long sleeves,Clothing,1599,In Stock,4.5,Everyday,green,cotton,L
+P00008,Everyday Saree,Printed traditional saree,Clothing,2499,In Stock,4.2,Everyday,red,polyester,Free
+P00009,Wireless Headphones,Over ear wireless audio headphones,Electronics,2999,In Stock,4.1,Soundbox,black,plastic,One Size
+P00010,Steel Water Bottle,Reusable stainless steel water bottle,Home,499,In Stock,4.6,Homewise,silver,steel,750ml
